@@ -1,0 +1,75 @@
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/lib/test.cpp LINE:5:
+    [TRACE]:xxx
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/lib/test.cpp LINE:5:
+    [TRACE]:xxx
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/lib/test.cpp LINE:5:
+    [TRACE]:xxx
+FILE:/home/zsf/study/lib/test.cpp LINE:7:
+    [TRACE]:%d nb
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/lib/test.cpp LINE:5:
+    [TRACE]:xxx
+FILE:/home/zsf/study/lib/test.cpp LINE:7:
+    [TRACE]:%d nb
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/lib/test.cpp LINE:5:
+    [TRACE]:xxx
+FILE:/home/zsf/study/lib/test.cpp LINE:7:
+    [TRACE]:%d nb
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/lib/test.cpp LINE:5:
+    [TRACE]:xxx
+FILE:/home/zsf/study/lib/test.cpp LINE:7:
+    [TRACE]:%d nb
+FILE:/home/zsf/study/lib/test.cpp LINE:8:
+    [TRACE]:%d nb
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx
+===============================================
+===============================================
+===============================================
+FILE:/home/zsf/study/lib/test.cpp LINE:5:
+    [TRACE]:xxx
+FILE:/home/zsf/study/lib/test.cpp LINE:7:
+    [TRACE]:11 nb
+FILE:/home/zsf/study/lib/test.cpp LINE:8:
+    [TRACE]:%d nb
+FILE:/home/zsf/study/lib/test.cpp LINE:11:
+    [TRACE]:xxxxx nb c 2000
+FILE:/home/zsf/study/src/main.cpp LINE:7:
+    [TRACE]:xxx

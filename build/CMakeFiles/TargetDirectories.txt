@@ -1,0 +1,4 @@
+/home/zsf/study/build/CMakeFiles/TEST.dir
+/home/zsf/study/build/CMakeFiles/TEST_LIB.dir
+/home/zsf/study/build/CMakeFiles/edit_cache.dir
+/home/zsf/study/build/CMakeFiles/rebuild_cache.dir
